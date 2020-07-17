@@ -1,4 +1,6 @@
-### Hello. 👋 I’m currently working as the Head of Operations at WorkingMouse. My past experience includes working for Codebots and Gravit Designer. My roles have ranged between product designer, project management, scrum master and front-end development.
+## Hello. 👋 
+
+### I’m currently working as the Head of Operations at WorkingMouse. My past experience includes working for Codebots and Gravit Designer. My roles have ranged between product designer, project management, scrum master and front-end development.
 
 I'm a multidisciplinary designer, creator and leader. My skills in product design, project management and front-end development have allowed me to build and deliver products across many fields. I have over 4 years of professional experience working for software companies. During that time, I have accumulated expertise with modern technologies, harnessing design thinking and applying agile methodologies to deliver value to my users and clients.
 
